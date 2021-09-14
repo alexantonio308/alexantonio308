@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Indra Company](https://www.indracompany.com/)
 
-- 🌱 I’m currently learning **Angular, ReactJS, Next**
+- 🌱 I’m currently learning **Angular, ReactJS, Next**, React Native
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexantonio308](https://github.com/alexantonio308)
 
