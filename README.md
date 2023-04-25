@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Alex Antonio</h1>
-<h3 align="center">I'm a Junior Front end developer at the beginning of my career and an aspiring full stack.</h3>
+<h3 align="center">I'm Front end developer at the beginning of my career and an aspiring full stack.</h3>
 <div style="text-align:center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexantonio308&show_icons=true" alt="alexantonio308" />
   <img src="https://github-readme-stats.vercel.app/api?username=alexantonio308&show_icons=true&locale=en" alt="alexantonio308" />
