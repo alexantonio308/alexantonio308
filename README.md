@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexantonio308&show_icons=true&locale=en" alt="alexantonio308" />
 </div>
 
-- 🔭 I’m currently working on [Indra Company](https://www.indracompany.com/)
+- 🔭 I’m currently working on [Stefanini Topaz CRK](https://www.topazevolution.com/)
 
 - 🌱 I’m currently learning **Angular, ReactJS, Next**, React Native
 
